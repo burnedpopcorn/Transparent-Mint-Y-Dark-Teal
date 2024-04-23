@@ -1,4 +1,4 @@
-Transparent Mint-Y-Dark-Teal
+##Transparent Mint-Y-Dark-Teal
 
 Made by burnedpopcorn180, this is a custom cinnamon theme built off of Mint-Y-Dark-Teal. Inspired by another custom theme, Faded-Dream, Mint-Y-Dark-Teal is now Transparent using some modifications by me.
 
