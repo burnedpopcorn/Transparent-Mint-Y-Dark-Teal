@@ -12,8 +12,9 @@ Made by burnedpopcorn180, this is a custom cinnamon theme built off of Mint-Y-Da
 
 1. Go to your Home Folder
 2. Search for a Folder called .themes
-    (You might have to Show Hidden Files, which can be toggled by Ctrl+H, or go to View -> Show Hidden Files)
 3. Move the folder provided by this repo (Transparent-Mint-Y-Dark-Teal) into the .themes folder
 4. Then go to System Settings -> Themes -> Desktop, then select Transparent-Mint-Y-Dark-Teal
+> [!NOTE]
+> You might have to Show Hidden Files to reveal The Themes Folder, which can be toggled by Ctrl+H, or go to View -> Show Hidden Files
 
 Enjoy Transparency :)
